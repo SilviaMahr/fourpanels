@@ -1,0 +1,56 @@
+14.10.2025 14:00, Rigelnik, Huber, Ferstl, Mahringer, Mohadi
+
+Backend: Monolithisch aufgebaut
+
+API first nicht vorhanden: Alle infos auf einmal
+Aufgabe: Backend refactoring
+Service klassen mit Kollege durchzugehen und zergliedern
+Frontend in Capacity UI und dann API call
+Zum Projekt:
+
+Angular framework: viel Produktivität
+UI 2 Teile/2 große Applikationen: eine davon werden wir daran arbeiten
+Gesundheitsapplikation: Zugriffssystem
+o Ganz dunkel
+o Dark und light anbieten
+metBoards: abbilden digital als Wissendatenbank für Support
+Boards benutzerdefiniert anbieten: edit, title, image, …
+AI schläget Members vor, die Experte in einem Gebiet sind
+Behandlungsvorschlag
+Diskussion: Chat, End-to-end verschlüsselt, Server sieht/liest die Daten nicht.
+o Alles verschlüsselt, Name usw.
+Lokale Suche möglich, jemanden im Server zu suchen ist nicht möglich
+Dinge hängen in der Luft, nicht schöne Border: nicht professionell und rund => besser gestalten
+auf Mobile Plattform: Capacitor (Ionic)
+o Capacitor in Java code
+o Angular material UI: Frontend UI => Design Sprache
+o Material Design
+Teilweise Material UI verwendet schon: V2
+MUST
+o schwierig ohne Erfahrung mit Angular: Erfahrung muss vorhanden sein
+o Code Analyse und dann feststellen:
+o Welche Komponenten sind vorhanden?
+o Welche Komponente können ohne Aufwand umgestellt werden?
+o Ganz umgestellt werden?
+
+Große Codebasis:
+o Native und PWA
+o Workspace:
+
+Aufgabe
+Komponente zu Komponente anschauen
+
+HTML, CSS und Controller
+Was kann man auf Capacitor Seite machen?
+Angleichen?
+Was muss ganz umgestellt werden?
+Mit den kleinsten Dinge beginnen: Button umstellen auf Capacitor => UI testen/anschauen (Farbe, Font, Größe)
+Barrierefreiheit beachten
+Screenreader: nicht viel Aufwand aber Kleinigkeiten zu machen
+Mit Gemini auch arbeiten: oder Coding Assistenten
+Zugang bekommen wir und eigenen Branch: selbst gehostetes GitHub
+NDA auch unterschireben
+
+Nächste Woche wieder Treffen: bis dahin Angular anschauen und ER überlegt: vielleicht etwas anderes mit SpringBoot machen
+Zugang und die Webseite auf Barrierefreiheit checken?
+Gesetz lesen
