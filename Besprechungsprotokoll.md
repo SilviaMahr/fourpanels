@@ -22,3 +22,10 @@ Wir bearbeiten nur diesen Teil, ein Kontakt zu einem Kollegen der die Website be
 
 Terminvorschläge: Freitag 8 - 10 Uhr oder 13 - 14 Uhr    
 Alternativ: Montag ab 15 Uhr, Dienstag 14 Uhr, Donnerstag ab 16 Uhr
+
+# Besprechungsprotokoll 27.10.25
+
+- Meeting hat nicht stattgefunden, da FE Entwickler Alexander nicht erschienen ist.   
+- Neuer Termin wird gesucht - Vorschlag seitens uns: Montag, 3.11.25 ab 15 Uhr.   
+- Lt. Hrn. Rigelnik wird am Montag auch Ludwig vom Social Engineering mit dabei sein, der für den Social Media Auftritt von Fourpanels verantworlich ist. Mit ihm sollen wir eine gemeinsame Strategie entwickeln (Website + Social Media Auftritt sollen konsistent sein).
+- FRAGE die es im Team zu klären gibt: Sollen wir beim Gespräch am Montag vorschlagen, dass ein Weekly jeden Montag um 15 Uhr stattfindet, da die Terminfindung immer so schwer ist? Absagen geht ja grundsätzlich immer, sofern es keine Themen gibt. 
