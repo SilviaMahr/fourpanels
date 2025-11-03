@@ -35,6 +35,8 @@ Alternativ: Montag ab 15 Uhr, Dienstag 14 Uhr, Donnerstag ab 16 Uhr
 - Zugang Repo noch nicht vollständig
 - weekly Montag 15:00 OK?
 - genaue Aufgabenstellung definieren, wir brauchen ein Dokument
+
+## Minutes:   
 Sinitsa: showing the current project/repo => application website
 - English and German
 Folder: Website
