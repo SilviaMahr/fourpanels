@@ -35,3 +35,49 @@ Alternativ: Montag ab 15 Uhr, Dienstag 14 Uhr, Donnerstag ab 16 Uhr
 - Zugang Repo noch nicht vollständig
 - weekly Montag 15:00 OK?
 - genaue Aufgabenstellung definieren, wir brauchen ein Dokument
+Sinitsa: showing the current project/repo => application website
+- English and German
+Folder: Website
+- modules with business logic
+- UI features and styles
+- UI folder
+
+nx config, Script 
+- Tanslation file is important: manual change => automatic editing
+- environment: SaaS
+- no content management system: no use of GraphQL
+- everything directly on Angular frontend
+- issues 
+
+Angular modules
+- one page: some sections with some components from library
+- naming: 'ui' prefix => in library, 'app' in app folder
+	component name = folder name
+- readme file with some steps by Alex Sinitsa, translation file
+- only website: new words have no translation (EN to DE) 
+- push the content on the website
+
+Rigelnik
+- Zugang zum Repo aus Product-Branch
+	- wir können eigenen Branch machen und uns austoben
+	- Content auf Website und Design mit CSS
+	- bestehendes Projekt auf neues UI: doch sehr komplexes Projekt
+
+Direkt Website aktualisieren
+- Projekte der Firma daraufstellen, präsentieren
+- dabei Barrierefreiheit beachten
+- Themen aus letzten Jahren darauf stellen, designen
+- Zusammenarbeit mit Ludwig Zeppin
+- Social-media Kanäle, Marketing und Content creation: Instagram, Linkedin, FB?
+- Content planung: regelmäßiges Posten
+- Website aktualisieren: dementsprechend auch Linkedin und Instagram anpassen
+- Austausch mittels Google meet, bzw. Slack (Einladung zum channel) und 
+- Google sheets für Content creation/plan
+- Ansprechperson: Ludwig Zeppin und Alexander Rigelnik
+- Montag 15:00 für Weekly mit Ludwig
+- Repo Zugang morgen 4.11.2025
+
+Zeppin: ein Tool von Kelag (Bedienungshilfe auf Website)
+- Features vielleicht ändern (machbar) auf Website
+- keine Änderung an Struktur, bzw. keine Änderung in der App
+- überlegt sich und wir auch wie/was wir gemeinsam machen können: so dass es am Ende wie ein abgeschlossenes Projekt ausschaut
