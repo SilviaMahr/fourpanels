@@ -12,7 +12,8 @@ Rigelnig schlägt vor: Homepage hinsichtlich Barrierefreiheit analysieren, Hompa
 Figma Prototyp angefragt, Termin für 27.10. mit FE Entwickler vereinbart
 - 3.11.2025 mit FE-Entwickler Alexander, Alexander Rigelnig und Ludwig
 Ziel unsererseits: Anforderungsdefinition   
-UI walkthrough, aber noch kein Zugriff
+UI walkthrough, aber noch kein Zugriff, ein Readme wird versprochen
+Alexander Rigelnig Anforderung: Homepage und Social Media Content inkl. Content Planung    
 - 5.11.2025 Ludwig+Silvia
 Ziel: Anforderungsdefinition  
 fourpanels erstellt einen Projektplan
@@ -21,7 +22,9 @@ fourpanels erstellt einen Projektplan
 - Organisatiorisches / Kommunikation: weekly, Ansprechperspnen, Zugänge, Möglichkeit Datenaustausch
 - Barrierefreiheit (Gesetz, technisch how-to)
 ## geplant
--
+- Homepage auf Barrierefreiheit analysieren, Plan erstellen
+- Redesign Homepage inkl. Barrierefreiheit  
+- Contenterstellung für Homepage  
 ## Blocker  
 - Anforderungsdefinition
 - Kommunikation
