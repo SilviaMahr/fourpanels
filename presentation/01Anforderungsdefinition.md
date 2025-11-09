@@ -19,7 +19,7 @@ Ziel: Anforderungsdefinition
 fourpanels erstellt einen Projektplan
 - 6.11.2025 Slack-Zugang
 - 7.11.2025 Zugriff auf Repo Website erhalten
-- 8.11.2025 ersten Projektstrukturplan erhalten
+- 8.11.2025 ersten draft-Projektstrukturplan erhalten
 ### Work  
 - Aufbau Angular-Kennisse
 - Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
