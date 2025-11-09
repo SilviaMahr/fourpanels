@@ -47,4 +47,5 @@ in enger Absprache mit fourpanels (Channel #socialMarketing)
 # Blocker  
 - finale Anforderungsdefinition
 - Kommunikation
-- was genau sind die Artefakte: ohne Anforderungsdefinition nicht möglich
+- was genau sind die Artefakte? ohne Anforderungsdefinition nicht möglich  
+could be: Homepage neu in Barrierefrei, Organisationsanweisungen für neue Sites und Content
