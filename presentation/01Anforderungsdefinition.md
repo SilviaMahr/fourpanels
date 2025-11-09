@@ -4,7 +4,7 @@
 - 14.10.2025 mit Alexander Rigelnig
 Ziel unsererseits: Anforderungsdefinition  
 erstes Kennenlernen, Vorstellung der Homepage  
-Erwartungshaltung Alexander Rigelnig kann aufgrund fehlernder Angular-Skills von uns nicht erfüllt werden   
+Erwartungshaltung **Refactoring** von Alexander Rigelnig kann aufgrund fehlernder Angular-Skills von uns nicht erfüllt werden   
 weiters Meeting wird geplant
 - 23.10.2025 mit Alexander Rigelnig
 Ziel unsererseits Anforderungsdefinition
@@ -31,10 +31,10 @@ fourpanels erstellt einen Projektplan
 - 15.12. Prototyp
 - 19.1. Abgabe
 ### Grobplanung
-- Homepage auf Barrierefreiheit analysieren --> Findings werden issues
-- Redesign Homepage 
-- Contenterstellung für Homepage in Absprache mit fourpanels
-### DRAFT-Umsetzungskonzept
+2 Bereiche im Scope Homepage
+1. Barrierefreiheit analysieren
+2. Contenterstellung in enger Absprache mit fourpanels (Channel #socialMarketing)
+### DRAFT-Umsetzungskonzept für 1
 1. Analyse mit free Tools der Homepage auf Barrierefreiheit
 2. Erstellung konkreter Micro-issues auf GitLab
 3. Abarbeitung inkl. Dokumentation
