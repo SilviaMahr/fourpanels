@@ -32,8 +32,9 @@ fourpanels erstellt einen Projektplan
 - 19.1. Abgabe
 ### Grobplanung
 2 Bereiche im Scope Homepage
-1. Barrierefreiheit analysieren
-2. Contenterstellung in enger Absprache mit fourpanels (Channel #socialMarketing)
+1. Barrierefreiheit
+2. Contenterstellung  
+in enger Absprache mit fourpanels (Channel #socialMarketing)
 ### DRAFT-Umsetzungskonzept für 1
 1. Analyse mit free Tools der Homepage auf Barrierefreiheit
 2. Erstellung konkreter Micro-issues auf GitLab
