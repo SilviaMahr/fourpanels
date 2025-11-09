@@ -23,7 +23,7 @@ fourpanels erstellt einen Projektplan
 ### Work  
 - Aufbau Angular-Kennisse
 - Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
-- Barrierefreiheit (Gesetz, technisch how-to)
+- Aufbau Know-How Barrierefreiheit (gesetzlich, technisch)
 # geplant
 ## Zeitplan
 - finale Anforderungsdefinition asap
