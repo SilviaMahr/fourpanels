@@ -31,9 +31,15 @@ fourpanels erstellt einen Projektplan
 - 15.12. Prototyp
 - 19.1. Abgabe
 ### Grobplanung
-- Homepage auf Barrierefreiheit analysieren, ToDoPlan erstellen
-- Redesign Homepage inkl. Barrierefreiheit  
-- Contenterstellung für Homepage
+- Homepage auf Barrierefreiheit analysieren --> Findings werden issues
+- Redesign Homepage 
+- Contenterstellung für Homepage in Absprache mit fourpanels
+### DRAFT-Umsetzungskonzept
+1. Analyse mit free Tools der Homepage auf Barrierefreiheit
+2. Erstellung konkreter Micro-issues auf GitLab
+3. Abarbeitung inkl. Dokumentation
+4. je issue exakt 1 merge
+5. loop
 ### Feinplanung: konkrete nächste Schritte
 - finale Anforderungsdefinition mit Zeitplan --> issues auf GitLab inkl. Milestones
 - Umstellung von GitHub auf GitLab --> Kommunikation sicherstellen
