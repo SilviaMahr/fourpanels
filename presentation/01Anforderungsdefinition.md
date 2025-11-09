@@ -25,9 +25,14 @@ fourpanels erstellt einen Projektplan
 - Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
 - Barrierefreiheit (Gesetz, technisch how-to)
 ## geplant
-- Homepage auf Barrierefreiheit analysieren, Plan erstellen --> issues auf GitLab erstellen
+### Grobplanung
+- Homepage auf Barrierefreiheit analysieren, Plan erstellen
 - Redesign Homepage inkl. Barrierefreiheit  
-- Contenterstellung für Homepage  
+- Contenterstellung für Homepage
+## nächste Schritte
+- finale Anforderungsdefinition mit Zeitplan --> issues auf GitLab inkl. Milestones
+- Umstellung von GitHub auf GitLab
+- Kommunikation sicherstellen
 ## Blocker  
 - finale Anforderungsdefinition
 - Kommunikation
