@@ -1,16 +1,16 @@
 **fourpanels Anforderungsdefinition**
 # bisher erreicht  
 ### Meetings  
-- 14.10.2025 mit Alexander Rigelnig
+- 14.10.2025 mit Alexander Rigelnik
 Ziel unsererseits: Anforderungsdefinition  
 erstes Kennenlernen, Vorstellung der Homepage  
-Erwartungshaltung **Refactoring** von Alexander Rigelnig kann aufgrund fehlernder Angular-Skills von uns nicht erfüllt werden   
+Erwartungshaltung **Refactoring** von Alexander Rigelnig kann aufgrund fehlender Angular-Skills von uns nicht erfüllt werden   
 weiters Meeting wird geplant
-- 23.10.2025 mit Alexander Rigelnig
+- 23.10.2025 mit Alexander Rigelnik
 Ziel unsererseits Anforderungsdefinition
-Rigelnig schlägt vor: Homepage hinsichtlich Barrierefreiheit analysieren, Hompage-Neugestaltung inkl. Content, Multilingualität  
+Rigelnik schlägt vor: Homepage hinsichtlich Barrierefreiheit analysieren, Hompage-Neugestaltung inkl. Content, Multilingualität  
 Figma Prototyp angefragt, Termin für 27.10. mit FE Entwickler vereinbart
-- 3.11.2025 mit FE-Entwickler Alexander, Alexander Rigelnig und Ludwig
+- 3.11.2025 mit FE-Entwickler Alexander, Alexander Rigelnik und Ludwig Zeppin
 Ziel unsererseits: Anforderungsdefinition   
 UI walkthrough, aber noch kein Zugriff, ein Readme wird versprochen
 Alexander Rigelnig Anforderung: Homepage und Social Media Content inkl. Content Planung    
@@ -21,7 +21,7 @@ fourpanels erstellt einen Projektplan
 - 7.11.2025 Zugriff auf Repo Website erhalten
 - 8.11.2025 ersten draft-Projektstrukturplan erhalten
 ### Work  
-- Aufbau Angular-Kennisse
+- Aufbau Angular-Kenntisse
 - Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
 - Aufbau Know-How Barrierefreiheit (gesetzlich, technisch)
 # geplant
@@ -48,4 +48,4 @@ in enger Absprache mit fourpanels (Channel #socialMarketing)
 - finale Anforderungsdefinition
 - Kommunikation
 - was genau sind die Artefakte? ohne Anforderungsdefinition nicht möglich  
-could be: Homepage neu in Barrierefrei, Organisationsanweisungen für neue Sites und Content
+could be: Homepage neu barrierefrei, Organisationsanweisungen für neue Sites und Content
