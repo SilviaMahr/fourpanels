@@ -17,15 +17,17 @@ Alexander Rigelnig Anforderung: Homepage und Social Media Content inkl. Content 
 - 5.11.2025 Ludwig+Silvia
 Ziel: Anforderungsdefinition  
 fourpanels erstellt einen Projektplan
+- 6.11.2025 Slack-Zugang
+- 7.11.2025 Zugriff auf Repo Website erhalten
+- 8.11.2025 ersten Projektstrukturplan erhalten
 ### Work  
 - Aufbau Angular-Kennisse
 - Organisatiorisches / Kommunikation: weekly, Ansprechperspnen, Zugänge, Möglichkeit Datenaustausch
 - Barrierefreiheit (Gesetz, technisch how-to)
 ## geplant
-- Homepage auf Barrierefreiheit analysieren, Plan erstellen
+- Homepage auf Barrierefreiheit analysieren, Plan erstellen --> issues auf GitLab erstellen
 - Redesign Homepage inkl. Barrierefreiheit  
 - Contenterstellung für Homepage  
 ## Blocker  
-- Anforderungsdefinition
+- finale Anforderungsdefinition
 - Kommunikation
-- Zugriff/Zugänge
