@@ -22,7 +22,7 @@ fourpanels erstellt einen Projektplan
 - 8.11.2025 ersten Projektstrukturplan erhalten
 ### Work  
 - Aufbau Angular-Kennisse
-- Organisatiorisches / Kommunikation: weekly, Ansprechperspnen, Zugänge, Möglichkeit Datenaustausch
+- Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
 - Barrierefreiheit (Gesetz, technisch how-to)
 ## geplant
 - Homepage auf Barrierefreiheit analysieren, Plan erstellen --> issues auf GitLab erstellen
