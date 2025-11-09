@@ -1,5 +1,5 @@
-# fourpanels Anforderungsdefinition
-## bisher erreicht  
+**fourpanels Anforderungsdefinition**
+# bisher erreicht  
 ### Meetings  
 - 14.10.2025 mit Alexander Rigelnig
 Ziel unsererseits: Anforderungsdefinition  
@@ -24,15 +24,20 @@ fourpanels erstellt einen Projektplan
 - Aufbau Angular-Kennisse
 - Organisatiorisches / Kommunikation: weekly, Ansprechpersonen, Zugänge, Möglichkeit Datenaustausch
 - Barrierefreiheit (Gesetz, technisch how-to)
-## geplant
+# geplant
+## Zeitplan
+- finale Anforderungsdefinition asap
+- danach Umsetzungskonzept
+- 15.12. Prototyp
+- 19.1. Abgabe
 ### Grobplanung
-- Homepage auf Barrierefreiheit analysieren, Plan erstellen
+- Homepage auf Barrierefreiheit analysieren, ToDoPlan erstellen
 - Redesign Homepage inkl. Barrierefreiheit  
 - Contenterstellung für Homepage
-## nächste Schritte
+### Feinplanung: konkrete nächste Schritte
 - finale Anforderungsdefinition mit Zeitplan --> issues auf GitLab inkl. Milestones
-- Umstellung von GitHub auf GitLab
-- Kommunikation sicherstellen
-## Blocker  
+- Umstellung von GitHub auf GitLab --> Kommunikation sicherstellen
+# Blocker  
 - finale Anforderungsdefinition
 - Kommunikation
+- was genau sind die Artefakte: ohne Anforderungsdefinition nicht möglich
