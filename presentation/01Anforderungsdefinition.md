@@ -4,10 +4,10 @@
 - 14.10.2025 mit Alexander Rigelnik
 Ziel unsererseits: Anforderungsdefinition  
 erstes Kennenlernen, Vorstellung der Homepage  
-Erwartungshaltung **Refactoring** von Alexander Rigelnig kann aufgrund fehlender Angular-Skills von uns nicht erfüllt werden   
+sehr hohe Erwartungshaltung **Refactoring komplettes UI Design/Technologie/Barrierefreiheit** von Alexander Rigelnig kann nicht erfüllt werden   
 weiters Meeting wird geplant
 - 23.10.2025 mit Alexander Rigelnik
-Ziel unsererseits Anforderungsdefinition
+Ziel unsererseits: Anforderungsdefinition
 Rigelnik schlägt vor: Homepage hinsichtlich Barrierefreiheit analysieren, Hompage-Neugestaltung inkl. Content, Multilingualität  
 Figma Prototyp angefragt, Termin für 27.10. mit FE Entwickler vereinbart
 - 3.11.2025 mit FE-Entwickler Alexander, Alexander Rigelnik und Ludwig Zeppin
@@ -15,7 +15,7 @@ Ziel unsererseits: Anforderungsdefinition
 UI walkthrough, aber noch kein Zugriff, ein Readme wird versprochen
 Alexander Rigelnig Anforderung: Homepage und Social Media Content inkl. Content Planung    
 - 5.11.2025 Ludwig+Silvia
-Ziel: Anforderungsdefinition  
+Ziel unsererseits: Anforderungsdefinition  
 fourpanels erstellt einen Projektplan
 - 6.11.2025 Slack-Zugang
 - 7.11.2025 Zugriff auf Repo Website erhalten
@@ -45,7 +45,7 @@ in enger Absprache mit fourpanels (Channel #socialMarketing)
 - finale Anforderungsdefinition mit Zeitplan --> issues auf GitLab inkl. Milestones
 - Umstellung von GitHub auf GitLab --> Kommunikation sicherstellen
 # Blocker  
-- finale Anforderungsdefinition
+- finale Anforderungsdefinition, Alternativen zu erstem unerfüllbaren Scope werden nur schwer gefunden
 - Kommunikation
 - was genau sind die Artefakte? ohne Anforderungsdefinition nicht möglich  
 could be: Homepage neu barrierefrei, Organisationsanweisungen für neue Sites und Content
