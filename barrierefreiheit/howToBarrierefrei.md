@@ -74,10 +74,21 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
 ### 2. Typografie und Lesbarkeit
 
 * **Schriftarten:** **Verwende** **gut lesbare Schriftarten**, idealerweise **serifenlose** ohne Verzierungen (z.B. Arial).
+* **Zoom bis 200% ohne Layout-Probleme** Die Inhalte müssen auch bei starker Vergrößerung lesbar und nutzbar bleiben.
+* **kein Text als Bild** Der Text muss **maschinenlesbar** und **skalierbar** sein - keine reinen Textgrafiken verwenden.  
 * **Texthierarchie:** **Etabliere** eine **einfache, konstante Texthierarchie** und ein **logisches Layout**.
     * **H1-Überschriften:** Die $\mathbf{H1}$ sollte als die größte und wichtigste Headline **klar als erstes ersichtlich** sein.
 * **PDF-Optimierung (Indesign-Hinweis):** Für optimale Reader-Funktionen digitaler PDFs müssen Textfelder im InDesign **alle verkettet** sein.
 
+
+### 3. Navigation und Interaktion   
+  
+* **Menü ist mit Tastatur bedienbar** alle Menüpunkte sind per Tabulator und Enter erreichbar.
+* **Sichtbarer Fokus beim Navigieren** es ist klar erkennbar, welches Element aktiv ist (z. B. mit einem farbigen Rahmen).
+* **Aussagekräftige Linktexte** vermeide Floskeln wie „Mehr erfahren“. Nutze beschreibende Texte wie „Mehr über unsere Barrierefreiheits-Services erfahren“.
+* **Enter-Taste funktioniert bei Buttons & Links** interaktive Elemente sind nicht nur mit der Maus, sondern auch über die Tastatureingabe bedienbar.
+* **Keine Tastatur-Fallen** Nutzende können modale Fenster oder Menüs problemlos wieder verlassen (z.B. per ESC-Taste).  
+ 
 ---
 
 ## 🖼️ Medien & Interaktion
@@ -91,5 +102,5 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
 ### 4. Videos und Audio
 
 * **Untertitel:** **Füge** für den gesprochenen Text in Videos stets **Untertitel** (Captions) hinzu.
-
+  
 ---
