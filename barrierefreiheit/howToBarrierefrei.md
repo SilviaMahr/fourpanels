@@ -48,7 +48,6 @@ Du musst Inhalte robust genug machen, damit sie von einer großen Auswahl an **B
 
 ---
 
-Möchtest du, dass ich die WCAG-Prinzipien weiter in spezifische Kriterien (z.B. 1.4.3 Kontrast (Minimum)) aufschlüssele?
 
 
 # ♿ Barrierefreie Gestaltung eines Website-Prototyps
