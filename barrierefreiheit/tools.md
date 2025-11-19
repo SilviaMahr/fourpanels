@@ -82,4 +82,3 @@ Dieser Schritt simuliert die Nutzung durch einen Screenreader, ohne dass ein vol
 
 ---
 
-Möchtest du eine Vorlage für die Dokumentation der gefundenen Fehler hinzufügen, die dein Team verwenden kann?
