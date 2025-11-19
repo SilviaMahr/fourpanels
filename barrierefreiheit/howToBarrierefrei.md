@@ -65,7 +65,7 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
     * *Tipp:* Oft genügt eine leichte Helligkeitsveränderung der Farben, um die Kontraste zu gewährleisten. Es muss nicht automatisch alles komplett anders sein.
 * **Farbspektren:** **Plane** für interaktive Elemente wie Hover-Zustände (Hoverstates) **mehrere Abstufungen einer Farbe (4+)** ein.
 * **Kontrastierende Kombinationen:** **Kombiniere** Farbkontraste gegebenenfalls auch basierend auf ihren Abstufungen.
-* **Funktionale Farben:** Die **Primärfarbe** muss nicht immer die Farbe für z.B. Buttons sein. (Beispiel: Headspace nutzt ein knalliges Orange und die direkte Kontrastfarbe Blau.)
+* **Funktionale Farben:** Die **Primärfarbe** muss nicht immer die Farbe für z.B. Buttons sein. (Beispiel: nutze ein knalliges Orange und die direkte Kontrastfarbe Blau.)
 
 ### 2. Typografie und Lesbarkeit
 
@@ -88,4 +88,4 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
 
 * **Untertitel:** **Füge** für den gesprochenen Text in Videos stets **Untertitel** (Captions) hinzu.
 
---
+---
