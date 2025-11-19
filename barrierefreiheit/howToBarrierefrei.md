@@ -87,7 +87,14 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
 * **Sichtbarer Fokus beim Navigieren** es ist klar erkennbar, welches Element aktiv ist (z. B. mit einem farbigen Rahmen).
 * **Aussagekräftige Linktexte** vermeide Floskeln wie „Mehr erfahren“. Nutze beschreibende Texte wie „Mehr über unsere Barrierefreiheits-Services erfahren“.
 * **Enter-Taste funktioniert bei Buttons & Links** interaktive Elemente sind nicht nur mit der Maus, sondern auch über die Tastatureingabe bedienbar.
-* **Keine Tastatur-Fallen** Nutzende können modale Fenster oder Menüs problemlos wieder verlassen (z.B. per ESC-Taste).  
+* **Keine Tastatur-Fallen** Nutzende können modale Fenster oder Menüs problemlos wieder verlassen (z.B. per ESC-Taste).
+
+### 4. Formulare und Eingabefelder  
+* **Alle Formularfelder korrekt beschriftet** Nutze Label wie „Vorname” anstatt lediglich eines Placeholdertextes.  
+* **Fehlermeldungen sind klar und hilfreich** Zeige Fehlermeldungen wie „Bitte gültige E-Mail-Adresse eingeben“ statt nur „Fehler“.
+* **Fehler werden farblich und textlich angezeigt** Verwende nicht nur Rot zur Markierung – füge immer auch Text zur Erklärung hinzu.
+* **Buttons mit klarem Zweck** Beschrifte Buttons klar, z. B. „Formular absenden“ statt „OK“.
+* **Autovervollständigung aktiviert (autocomplete)** Dies erleichtert das Ausfüllen – insbesondere für Nutzende mit kognitiven Einschränkungen.  
  
 ---
 
