@@ -68,7 +68,7 @@ Diese Anweisungen dienen dazu, sicherzustellen, dass das Design **deines** Websi
 * **Funktionale Farben:** Die **Primärfarbe** muss nicht immer die Farbe für z.B. Buttons sein. (Beispiel: nutze ein knalliges Orange und die direkte Kontrastfarbe Blau.)
 * **Free Tools zur Farbwahl**  
 [ColourContrustChecker](https://colourcontrast.cc/)  
-[Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)
+[Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)  
 [WhoCanUse](https://www.whocanuse.com/)
 
 ### 2. Typografie und Lesbarkeit
